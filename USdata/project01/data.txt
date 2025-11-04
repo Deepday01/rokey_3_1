@@ -1,0 +1,7 @@
+| 플랫폼
+| ---------------------------------------------- | ------------------------------ |
+| [data.gov](https://www.data.gov)               | 미국 정부 공식 오픈데이터 포털 (200k+ 데이터셋) |
+| [census.gov](https://www.census.gov/data.html) | 인구, 경제, 주거 등                   |
+| [bls.gov/data](https://www.bls.gov/data/)      | 고용, 물가, 임금                     |
+| [noaa.gov](https://www.noaa.gov)               | 날씨, 기후                         |
+| [usa.gov/open](https://www.usa.gov/open)       | 각 정부 기관별 오픈데이터 링크              |
